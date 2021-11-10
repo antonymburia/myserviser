@@ -44,7 +44,7 @@
     color: #fff;
 }
 .home button{
-    margin: 50px;
+    margin: 40px;
     font-weight: 700;
 }
 .btn2{
@@ -54,4 +54,26 @@
     border: solid #fff 1px;
 
 
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+}
+.about button{
+    background-color: #316ccd;
+    padding: 15px 20px 15px 20px;
+    border: none;
+    color: #fff;
+    margin-bottom: 100px;
+}
+#first-p {
+    padding: 50px 0 60px;
+    font-size: 20px;
+}
+.about p{
+    font-size: 18px;
+    line-height: 2;
+}
+.about b{
+    font-size: 20px;
 }
