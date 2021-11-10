@@ -24,4 +24,34 @@
     background-image: url("bg.png");
     background-size: cover;
     height: 700px;
+    text-align: center;
+    color: #fff;
+}
+.home h1{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+
+}
+.btn {
+    padding-top: 80px;
+}
+.services {
+    background-color: #316ccd;
+    padding: 15px 20px 15px 20px;
+    border: none;
+    color: #fff;
+}
+.home button{
+    margin: 50px;
+    font-weight: 700;
+}
+.btn2{
+    color: #ffff;
+    padding: 15px 20px 15px 20px;
+    background-color: transparent;
+    border: solid #fff 1px;
+
+
 }
