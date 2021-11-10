@@ -1,0 +1,22 @@
+
+.nav{
+    float: right;
+    background-color: #fff;
+}
+.nav strong{
+    margin-right: 950px;
+}
+.nav span{
+    color: #316ccd;
+}
+.nav a{
+    text-decoration: none;
+    padding: 14px;
+    color: black;
+
+}
+.nav button{
+    color: #fff;
+    background-color: #316ccd;
+    padding: 10px 15px 10px 15px;
+}
