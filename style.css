@@ -100,3 +100,24 @@
 .fourth button{
     margin-top: 50px;
 }
+.serv{
+    text-align: center;
+    padding: 50px 0 50px;
+}
+.fifth {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+}
+.card{
+    box-shadow: 0 2px 5px 0;
+    padding-bottom: 30px;
+}
+ .card img{
+   width: 400px; 
+   margin-bottom: 10px;
+   
+ }
+ .card b,p{
+     padding: 10px;
+ }
