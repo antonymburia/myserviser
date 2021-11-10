@@ -20,3 +20,8 @@
     background-color: #316ccd;
     padding: 10px 15px 10px 15px;
 }
+.home {
+    background-image: url("bg.png");
+    background-size: cover;
+    height: 700px;
+}
