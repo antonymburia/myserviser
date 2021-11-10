@@ -23,6 +23,7 @@
 .home {
     background-image: url("bg.png");
     background-size: cover;
+    background-repeat: none;
     height: 700px;
     text-align: center;
     color: #fff;
@@ -76,4 +77,11 @@
 }
 .about b{
     font-size: 20px;
+}
+.fourth {
+    background-image: url("Rectangle\ 11.png");
+    background-size: cover;
+    background-repeat: none;
+    height: 550px;
+
 }
