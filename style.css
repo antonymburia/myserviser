@@ -112,6 +112,7 @@
 .card{
     box-shadow: 0 2px 5px 0;
     padding-bottom: 30px;
+    margin-bottom: 50px;
 }
  .card img{
    width: 400px; 
@@ -121,3 +122,34 @@
  .card b,p{
      padding: 10px;
  }
+ .contact {
+     background-color: #316ccd;
+     display: flex;
+     justify-content: space-evenly;
+ }
+ .left1 {
+    color: #fff;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.right {
+    width: 50%;
+    margin-left: 50px;
+}
+form {
+    background-color: #fff ;
+    padding: 80px;
+    margin-top: 80px;
+}
+.form {
+    margin-bottom: 30px;
+}
+input {
+    width: 100%;
+    margin: 20px 20px 20px 0;
+    padding: 20px;
+}
+textarea{
+    width: 105%;
+    margin: 20px 20px 20px 0;
+}
