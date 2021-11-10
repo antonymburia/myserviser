@@ -82,6 +82,18 @@
     background-image: url("Rectangle\ 11.png");
     background-size: cover;
     background-repeat: none;
-    height: 550px;
+    height: 500px;
+    text-align: center;
+    color: #fff;
 
+}
+.fourth h2{
+    padding-top: 100px;
+    font-weight: 500;
+}
+.fourth h1{
+    font-size: 50px;
+}
+.fourth button{
+    margin-top: 50px;
 }
