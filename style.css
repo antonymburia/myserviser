@@ -1,27 +1,32 @@
 
 .nav{
-    float: right; 
+    display: flex;
     margin-right: 5px;
     background-color: #fff;
     margin-bottom: 10px;
+    font-weight: bolder;
 }
 .nav strong{
-    margin-right: 1000px;
-    margin-left: 5px;
+    padding-top: 20px;
+    margin-right: 750px;
+    margin-left: 50px;
+    font-size: larger;
 }
 .nav span{
     color: #316ccd;
 }
 .nav a{
     text-decoration: none;
-    padding: 14px;
+    padding: 10px 30px 10px 30px;
     color: black;
 
 }
 .nav button{
     color: #fff;
     background-color: #316ccd;
-    padding: 10px 15px 10px 15px;
+    padding: 0px 15px 0px 15px;
+    margin-right: 20px;
+    border: none;
 }
 .home {
     background-image: url("bg.png");
@@ -131,6 +136,7 @@
     color: #fff;
     margin-left: 100px;
     margin-top: 80px;
+    line-height: 2;
 }
 .right {
     width: 50%;
@@ -142,13 +148,13 @@ form {
     margin-top: 80px;
     margin-bottom: 80px;
 }
-.form {
-    margin-bottom: 30px;
+form button{
+margin-left: 250px;
 }
 input {
     width: 100%;
     margin: 20px 20px 20px 0;
-    padding: 20px;
+    padding: 15px;
 }
 textarea{
     width: 100%;
